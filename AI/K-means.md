@@ -5,6 +5,12 @@
 - 중심점의 개수(k개)를 설정하고 비슷한 거리에 있는 개체끼리 군집화 함
 - 계산과정이 비교적 간단하기 때문에 안정적인 성능을 보이며 큰 집단의 군집화에 적합함
 
+** 과정
+1. k 개의 군집 대표 벡터 (centroids) 를 데이터의 임의의 k 개의 점으로 선택
+2. 모든 점에 대하여 가장 가까운 centroid 를 찾아 cluster label 을 부여
+3. 같은 cluster label 을 지닌 데이터들의 평균 벡터를 구하여 centroid 를 업데이트
+4. 2,3 의 과정을 label 의 변화가 없을때까지 반복.
+
 ### ` K-means 구현`
 ```
 from sklearn.cluster import KMeans
