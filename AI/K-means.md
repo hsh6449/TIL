@@ -28,4 +28,5 @@ from sklearn.metrics import silhouette_score ,silhouette_samples
 ```
 ![image](https://user-images.githubusercontent.com/57973170/129478811-f996ac2f-adaf-4cf5-8fcf-df0db5037f66.png)
 
+** 사용한 데이터는 project153 레퍼지토리에 있음 8.15 현재 비공개지만 프로젝트 마무리된 후 공개예정 
 
