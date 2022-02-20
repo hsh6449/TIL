@@ -10,3 +10,4 @@
 ```
 conda create -n 가상환경이름
 ```
+- 22.02.20 `numpy quiz` 및 Ax=b 계산 코드 구현 
