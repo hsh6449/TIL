@@ -22,3 +22,4 @@ else :
      
     print(int(deviden))
     print(int(m % n))
+
