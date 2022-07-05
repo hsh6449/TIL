@@ -6,7 +6,7 @@
 ## List
 - Algorithm [code](https://github.com/hsh6449/TIL/tree/main/Algorithm) [notion](https://www.notion.so/Algorithm-91ce279f1b1949499a7ba5067cf7775a)
 - pytorch [code](https://github.com/hsh6449/TIL/tree/main/pytorch%20%26%20tensorflow) [notion](https://www.notion.so/DeepLearning-4dd82dbd54e74ee19180d7f50ded6d55)
-- RL [code]() [notion](https://www.notion.so/Reinforcement-Learning-f549b80d40a1469897937d7bc987fcb3)
+- RL [code](https://github.com/hsh6449/TIL/tree/main/AI/RL) [notion](https://www.notion.so/Reinforcement-Learning-f549b80d40a1469897937d7bc987fcb3)
 
 ## History
 `2022` Algorithm, ML, DL, 수학 공부
