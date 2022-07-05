@@ -1,7 +1,12 @@
 ## 공부한 것들 정리
+- Algorithm [code](https://github.com/hsh6449/TIL/tree/main/BaekJUn)
+- pytorch [code](https://github.com/hsh6449/TIL/tree/main/pytorch)
+- RL [code]
+
+## History
 `2021` Data Science & AI 공부중
 - [기술블로그 모음](https://github.com/seonggwonyoon/techblog)
-- skleaern 공부
+- skleaern
 
 `2022` Algorithm, ML, DL, 수학 공부
 - 22.01.08 ~ 백준 알고리즘으로 알고리즘 공부 시작
