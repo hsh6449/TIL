@@ -8,6 +8,7 @@
 - 딥러닝 및 머신러닝, 논문 구현 해보기(plan) 
 - 가상환경 생성 코드(터미널)
 - docker, ssh 환경 구축 방법 공부(ubuntu 터미널)
+- 선형대수, 집합론 공부 [notion]
 
 `2021` Data Science & AI 공부중
 - [기술블로그 모음](https://github.com/seonggwonyoon/techblog)
@@ -19,4 +20,4 @@
 ```
 conda create -n 가상환경이름
 ```
-- 
+- [pytorch 한국사용자 모임](https://tutorials.pytorch.kr/)
