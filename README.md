@@ -8,6 +8,11 @@
 - pytorch [code](https://github.com/hsh6449/TIL/tree/main/pytorch%20%26%20tensorflow) [notion](https://www.notion.so/DeepLearning-4dd82dbd54e74ee19180d7f50ded6d55)
 - RL [code](https://github.com/hsh6449/TIL/tree/main/AI/RL) [notion](https://www.notion.so/Reinforcement-Learning-f549b80d40a1469897937d7bc987fcb3)
 
+## ON GOING Task
+- Reproduce DQN
+- Study Linear Algebra & set theory
+- undergraduate intern in AIML
+
 ## History
 `2022` Algorithm, ML, DL, 수학 공부
 - 딥러닝 및 머신러닝, 논문 구현 해보기(plan) 
@@ -19,7 +24,7 @@
 - [기술블로그 모음](https://github.com/seonggwonyoon/techblog)
 - skleaern
 
-## remind
+## Random
 - conda 가상환경 생성
 
 ```
