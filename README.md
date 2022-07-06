@@ -8,7 +8,7 @@
 - pytorch [code](https://github.com/hsh6449/TIL/tree/main/pytorch%20%26%20tensorflow) [notion](https://www.notion.so/DeepLearning-4dd82dbd54e74ee19180d7f50ded6d55)
 - RL [code](https://github.com/hsh6449/TIL/tree/main/AI/RL) [notion](https://www.notion.so/Reinforcement-Learning-f549b80d40a1469897937d7bc987fcb3)
 
-## ON GOING TASK
+## <span style='background-color:#fff5b1'> ON GOING TASK </span>
 - Reproduce DQN
 - Study Linear Algebra & set theory
 - undergraduate intern in AIML
