@@ -31,3 +31,4 @@
 conda create -n 가상환경이름
 ```
 - [pytorch 한국사용자 모임](https://tutorials.pytorch.kr/)
+- [강화학습 공부자료 정리](https://mclearninglab.tistory.com/49)
