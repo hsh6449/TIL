@@ -1,7 +1,7 @@
 ## Rule
 - 공부한 내용을 정리해서 노션에 업로드후 각 폴더 readme에 추가
 - 코드가 필요한 공부는 코드 구현 후 업로드
-- 하루에 하나 이상 업로드
+- 1주일에 하나 이상 업로드
 
 ## List
 - Algorithm [code](https://github.com/hsh6449/TIL/tree/main/Algorithm) [notion](https://www.notion.so/Algorithm-91ce279f1b1949499a7ba5067cf7775a)
